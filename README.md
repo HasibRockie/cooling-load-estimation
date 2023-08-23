@@ -16,7 +16,7 @@ This repository provides a set of tools and resources to estimate the cooling lo
 
 - `Images` : 2D and 3D views are added as images.  
 
-- `Calculation Document` : Cooling load calculation documentation in both \LaTeX and PDF format. 
+- `Calculation Document` : Cooling load calculation documentation in both _LaTeX_ and _PDF_ format. 
 
 
 ## Methodology
@@ -25,6 +25,6 @@ The cooling load estimation is based on a combination of factors including room 
 ## Contributors
 **Md Hasibul Islam**
 
---Mechanical Engineering--
+__Mechanical Engineering__
 
---Bangladesh University of Engineering \& Technology (BUET)--
+__Bangladesh University of Engineering \& Technology (BUET)__
