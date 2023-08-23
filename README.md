@@ -25,6 +25,6 @@ The cooling load estimation is based on a combination of factors including room 
 ## Contributors
 **Md Hasibul Islam**
 
-__Mechanical Engineering__
+_Mechanical Engineering_
 
-__Bangladesh University of Engineering \& Technology (BUET)__
+_Bangladesh University of Engineering \& Technology (BUET)_
