@@ -10,18 +10,21 @@ This repository provides a set of tools and resources to estimate the cooling lo
 </p>
 
 ## Contents
-\begin{itemize}
-\item `data` : For calculation, necessary HVAC data tables are included 
-\item `CAD Model` : Solidworks model for the room.  
-\item `Images` : 2D and 3D views are added as images.  
-\item `Calculation Document` : Cooling load calculation documentation in both \LaTeX and PDF format. 
-\end{itemize}
+- `data` : For calculation, necessary HVAC data tables are included.
+
+- `CAD Model` : Solidworks model for the room.  
+
+- `Images` : 2D and 3D views are added as images.  
+
+- `Calculation Document` : Cooling load calculation documentation in both \LaTeX and PDF format. 
 
 
 ## Methodology
 The cooling load estimation is based on a combination of factors including room dimensions, building materials, solar radiation, outdoor temperature, and heat-generating sources. Our methodology employs established equations and algorithms widely used in the field of building energy analysis.
 
 ## Contributors
-** Md Hasibul Islam **
--- Mechanical Engineering --
--- Bangladesh University of Engineering \& Technology (BUET) --
+**Md Hasibul Islam**
+
+--Mechanical Engineering--
+
+--Bangladesh University of Engineering \& Technology (BUET)--
