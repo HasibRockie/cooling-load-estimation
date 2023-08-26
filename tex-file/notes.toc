@@ -1,22 +1,22 @@
 \contentsline {section}{\numberline {1}CAD model of Room}{2}{section.1}%
-\contentsline {section}{\numberline {2}Model Specification}{5}{section.2}%
-\contentsline {section}{\numberline {3}Heat Conduction through Partition walls / glasses}{6}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Roof}{6}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Walls}{6}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Window}{6}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Door}{6}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}Calculation Table}{7}{subsection.3.5}%
-\contentsline {section}{\numberline {4}Heat Conduction through roof \& sunlit walls / glasses}{7}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Roof}{7}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}South Wall}{7}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Glass}{8}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Calculation Table}{8}{subsection.4.4}%
-\contentsline {section}{\numberline {5}Heat Gain}{8}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Solar Heat gain through glass}{8}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Cooling Load for Air Exchange}{8}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Heat Gain due to Occupants}{8}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Heat gain due to Equipments}{9}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}Cooling load due to Lights}{9}{subsection.5.5}%
-\contentsline {section}{\numberline {6}Final Load Calculation}{9}{section.6}%
-\contentsline {section}{\numberline {7}Additional Links}{10}{section.7}%
-\contentsline {section}{\numberline {8}Guardian Contact}{10}{section.8}%
+\contentsline {section}{\numberline {2}Model Specification}{4}{section.2}%
+\contentsline {section}{\numberline {3}Heat Conduction through Partition walls / glasses}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Roof}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Walls}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Window}{5}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Door}{5}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Calculation Table}{6}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Heat Conduction through roof \& sunlit walls / glasses}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Roof}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}South Wall}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Glass}{7}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Calculation Table}{7}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Heat Gain}{7}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Solar Heat gain through glass}{7}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Cooling Load for Air Exchange}{7}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Heat Gain due to Occupants}{7}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Heat gain due to Equipments}{8}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Cooling load due to Lights}{8}{subsection.5.5}%
+\contentsline {section}{\numberline {6}Final Load Calculation}{8}{section.6}%
+\contentsline {section}{\numberline {7}Additional Links}{9}{section.7}%
+\contentsline {section}{\numberline {8}Guardian Contact}{9}{section.8}%
