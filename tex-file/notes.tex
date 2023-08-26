@@ -100,11 +100,11 @@
   \item \textbf{Relative Humidity:} 50\%
   \item \textbf{Dimensions:}
   \begin{itemize}
-    \item Length : 12 m
-    \item Width : 10 m
+    \item Length : 4 m
+    \item Width : 3 m
     \item Height : 3 m
-    \item Window : 4 m $\times$ 1.75 m (on south wall)
-    \item Door : 2.2 m $\times$ 1.50 m (on north wall)
+    \item Window : 1.5 m $\times$ 1.25 m (on south wall)
+    \item Door : 2.2 m $\times$ 0.75 m (on north wall)
   \end{itemize}
   \item \textbf{Surroundings}:
   \begin{itemize}
@@ -198,7 +198,7 @@ Now, reading the values from table-16,
   \end{center}
 
   \begin{itemize}
-    \item Door size : 2.2 m $\times$ 1.5 m 
+    \item Door size : 2.2 m $\times$ 0.75 m 
     \item From table-17.6, Hard wood : Oak, k = 0.16 $W/m-K$\\
     Now, resistance for 25 mm thick door,\\ $R_{door}$ = 0.025/0.16 = 0.156 
     \item Total resistance, R = $R_o + R_{door} + R_i$ \\= 0.059 + 0.156 + 0.121 \\= 0.336 
@@ -219,14 +219,14 @@ Now, reading the values from table-16,
         \hline
         SI. no. & Item & Description & A & U & TD & Q (watt) \\
         \hline
-        1 & Partition wall & North & 26.7 & 2.199 & 5.0 & 293.57 \\
-        2 & Partition wall & East & 36 & 2.199 & 5.0 & 395.82 \\
-        3 & Partition wall & West & 36 & 2.199 & 5.0 & 395.82 \\
-        4 & Partition wall & South & 23 & 2.199 & 7.5 & 379.33 \\
-        5 & Partition glass & South & 7 & 2.50 & 7.5 & 131.25 \\
-        6 & Door & North & 3.3 & 2.976 & 5.0 & 49.104 \\
+        1 & Partition wall & North & 7.35 & 2.199 & 5.0 & 80.81 \\
+        2 & Partition wall & East & 12 & 2.199 & 5.0 & 131.94 \\
+        3 & Partition wall & West & 12 & 2.199 & 5.0 & 131.94 \\
+        4 & Partition wall & South & 7.125 & 2.199 & 7.5 & 117.51 \\
+        5 & Partition glass & South & 1.875 & 2.50 & 7.5 & 35.16 \\
+        6 & Door & North & 1.65 & 2.976 & 5.0 & 24.552 \\
         \hline
-        &&&&&& 1644.894 \\
+        &&&&&& 521.902 \\
         \hline
     \end{tabularx}
     \end{adjustbox}
@@ -285,11 +285,11 @@ Now, reading the values from table-16,
           \hline
           SI. no. & Item & Description & A & U & TD & Q (watt) \\
           \hline
-          1 & Roof & Type 4 & 120 & 0.653 & 35.1 & 2750.44 \\
-          2 & South wall & Type C4 & 23 & 2.199 & 13.5 & 682.79 \\
-          3 & Sunlit glass & South & 7 & 2.50 & 7.0 & 122.5 \\
+          1 & Roof & Type 4 & 12 & 0.653 & 35.1 & 275.04 \\
+          2 & South wall & Type C4 & 7.125 & 2.199 & 13.5 & 211.52 \\
+          3 & Sunlit glass & South & 1.875 & 2.50 & 7.0 & 32.81 \\
           \hline
-          &&&&&& 3555.73 \\
+          &&&&&& 519.37 \\
           \hline
       \end{tabularx}
       \caption{Heat Conduction through Roof and Sunlit Walls/Glasses}
@@ -302,20 +302,20 @@ Now, reading the values from table-16,
     Shading factor, $SF$ = 0.85 [Table : 21, for 15 mm thickness clear glass] \\
     $SHGF_{max}$ = 237 [Table : 18(a), for south wall in April month] \\
     $CLF$ = 0.59 [Table : 19, for south wall at 5 pm] \\ 
-    Window area = 4 m $\times$ 1.75 m = 7 $m^2$ \\
+    Window area = 1.5 m $\times$ 1.25 m = 1.875 $m^2$ \\
 
     \begin{align*}
       Q &= A \times SF \times SHGF_{max} \times CLF \\
-      &= 7 \times 0.85 \times 237 \times 0.59 \\
-      &= 832 \text{ watt}
+      &= 1.875 \times 0.85 \times 237 \times 0.59 \\
+      &= 222.85 \text{ watt}
     \end{align*}
 
     \subsection{Cooling Load for Air Exchange}
     \begin{multicols}{2}
       
-      Volume of the room = 12 $\times$ 10 $\times$ 3 = 360 $m^3$ \\
+      Volume of the room = 4 $\times$ 3 $\times$ 3 = 36 $m^3$ \\
       Air change rate = 1.0 $/hr$ \\
-      $\therefore$ Air change per hour, V = 360 $m^3/hr$ = 0.1 $m^3/s$ \\
+      $\therefore$ Air change per hour, V = 36 $m^3/hr$ = 0.01 $m^3/s$ \\
       
       $W_o$ = 21.5 $\times 10^-3$ at 33$^\circ$ dbt and 27$^{\circ}$ wbt \\ 
       $W_i$ = 10 $\times 10^-3$ at 25.5$^\circ$ dbt and 50\% RH \\ 
@@ -323,14 +323,14 @@ Now, reading the values from table-16,
 
     \begin{align*}
       \text{Sensible Heat Gain, } Q_s &= \rho \times C_p \times V \times (T_o - T_i) \\
-      &= 1200 \times 0.1 \times (33 - 25.5) \\
-      &= 900 \text{ watt}
+      &= 1200 \times 0.01 \times (33 - 25.5) \\
+      &= 90 \text{ watt}
     \end{align*}
     
     \begin{align*}
       \text{Latent Heat Gain, } Q_L &= \rho \times h_{gf} \times V \times (W_o - W_i) \\
-      &= 3010 \times 10^3 \times 0.1 \times (21.5 - 10) \times 10^-3 \\
-      &= 3461.5 \text{ watt}
+      &= 3010 \times 10^3 \times 0.01 \times (21.5 - 10) \times 10^-3 \\
+      &= 346.15 \text{ watt}
     \end{align*}
     
     \subsection{Heat Gain due to Occupants}
@@ -352,15 +352,15 @@ Now, reading the values from table-16,
     \end{align*}
 
     \subsection{Cooling load due to Lights}
-    For 1 light,Lighting power, PL = 25 $W/m^2 \times 120 m^2$ = 3000 $W$ \\
+    For 1 light,Lighting power, PL = 25 $W/m^2 \times 12 m^2$ = 300 $W$ \\
     Cooling load factor, $CLF$ = 0.85 [assuming] \\
     Ballast factor, $BF$ = 1.2 [flouroscent light] \\
     Diversity factor, $D$ = 1  [assuming]\\
 
     \begin{align*}
       Q &= PL \times BF \times D \times CLF \\
-      &= 3000 \times 1.2 \times 1 \times 0.85 \\
-      &= 3060 \text{ watt}
+      &= 300 \times 1.2 \times 1 \times 0.85 \\
+      &= 306 \text{ watt}
     \end{align*}
     \vspace*{1cm}
     \section{Final Load Calculation}
@@ -371,15 +371,15 @@ Now, reading the values from table-16,
           \hline
           \textbf{SI. no.} & \textbf{Items with Description} & \textbf{$Q_s$ (watt)} & \textbf{$Q_L$ (watt)} & \textbf{$Q_T$ (watt)} \\
           \hline
-          1 & Heat conduction through partition walls / glasses & 1644.894 & - & 1644.894 \\
-          2 & Heat conduction through roof \& sunlit walls / glasses & 3555.73 & - & 3555.73 \\
-          3 & Solar heat gain through glass  & 832 & - & 832 \\
-          4 & Cooling load for air exchange & 900 & 3461.5 & 4361.5 \\
+          1 & Heat conduction through partition walls / glasses & 521.902 & - & 521.902 \\
+          2 & Heat conduction through roof \& sunlit walls / glasses & 519.37 & - & 519.37 \\
+          3 & Solar heat gain through glass  & 222.85 & - & 222.85 \\
+          4 & Cooling load for air exchange & 90 & 346.15 & 436.15 \\
           5 & Heat gain due to occupants & 150 & 110 & 260 \\
           6 & Heat gain due to equipments & 100 & - & 100 \\
-          7 & Cooling load due to lights & 3060 & - & 3060 \\
+          7 & Cooling load due to lights & 306 & - & 306 \\
           \hline
-          && 10242.624 & 3571.5 & 13814.124 \\
+          && 1910.122 & 456.15 & 2366.272 \\
       \end{tabularx}
       \end{adjustbox}
       \caption{Final Load Calculation}
@@ -387,14 +387,14 @@ Now, reading the values from table-16,
       \end{table}
 
       \begin{align*}
-        QT &= 13814.124 \text{ watt} \\
-        &= 13.814 \text{ kW} \\
-        &= \frac{13.814}{3.516} \text{ TR} \\
-        &= 3.93 \text{ TR} \\
-        \therefore QT &\approx 4 \text{ TR}
+        QT &= 2366.272 \text{ watt} \\
+        &= 2.37 \text{ kW} \\
+        &= \frac{2.37}{3.516} \text{ TR} \\
+        &= 0.674 \text{ TR} \\
+        \therefore QT &\approx 0.7 \text{ TR}
       \end{align*}
 
-      \textbf{REMARK: The required cooling load for the room is 4 TR.}
+      \textbf{REMARK: The required cooling load for the room is 0.7 TR.}
 
       \section{Additional Links}
       Github Links for the project: \\
