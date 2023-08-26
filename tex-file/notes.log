@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.7.17)  26 AUG 2023 11:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.7.17)  26 AUG 2023 12:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -740,7 +740,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
  (C:\Users\hasie\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<institution_logo.jpg, id=90, 770.88pt x 775.89874pt>
+<institution_logo.jpg, id=94, 770.88pt x 775.89874pt>
 File: institution_logo.jpg Graphic file (type jpg)
 <use institution_logo.jpg>
 Package pdftex.def Info: institution_logo.jpg  used on input line 46.
@@ -757,22 +757,22 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
                    \relax 
 l.70 
       [1]
-<img/img1.png, id=126, 397.485pt x 307.1475pt>
+<img/img1.png, id=131, 397.485pt x 307.1475pt>
 File: img/img1.png Graphic file (type png)
 <use img/img1.png>
 Package pdftex.def Info: img/img1.png  used on input line 75.
 (pdftex.def)             Requested size: 478.86255pt x 370.04208pt.
-<img/img2.png, id=127, 397.485pt x 256.0767pt>
+<img/img2.png, id=132, 397.485pt x 307.1475pt>
 File: img/img2.png Graphic file (type png)
 <use img/img2.png>
 Package pdftex.def Info: img/img2.png  used on input line 82.
-(pdftex.def)             Requested size: 478.86255pt x 308.51352pt.
-<img/img3.png, id=128, 397.485pt x 224.5188pt>
+(pdftex.def)             Requested size: 478.86255pt x 370.04208pt.
+<img/img3.png, id=133, 397.485pt x 307.1475pt>
 File: img/img3.png Graphic file (type png)
 <use img/img3.png>
 Package pdftex.def Info: img/img3.png  used on input line 89.
-(pdftex.def)             Requested size: 478.86255pt x 270.49348pt.
- [2 <./img/img1.png>] [3 <./img/img2.png> <./img/img3.png>] [4]
+(pdftex.def)             Requested size: 478.86255pt x 370.04208pt.
+ [2 <./img/img1.png>] [3 <./img/img2.png>] [4 <./img/img3.png>] [5]
 Overfull \hbox (2.13766pt too wide) in alignment at lines 160--160
 [][][] 
  []
@@ -782,7 +782,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
 
-[5]
+[6]
 Overfull \hbox (25.97346pt too wide) in alignment at lines 231--231
 [][][][][][][] 
  []
@@ -812,7 +812,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 278--280
 
  []
 
-[6]
+[7]
 Overfull \hbox (25.97346pt too wide) in alignment at lines 294--294
 [][][][][][][] 
  []
@@ -837,7 +837,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 337--343
 
  []
 
-[7]
+[8]
 Underfull \hbox (badness 10000) in paragraph at lines 345--347
 
  []
@@ -857,26 +857,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 400--402
 
  []
 
-[8] [9] (notes.aux)
+[9] [10] (notes.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-06-30>
  ***********
 Package rerunfilecheck Info: File `notes.out' has not changed.
-(rerunfilecheck)             Checksum: 9E49F31BEA57DB895F24F3AA6C2D5E10;3219.
+(rerunfilecheck)             Checksum: 3EDAA2E64073BEBE1E035EE60973BA4E;3346.
  ) 
 Here is how much of TeX's memory you used:
- 23671 strings out of 475551
- 440443 string characters out of 5762554
+ 23674 strings out of 475551
+ 440470 string characters out of 5762554
  1939238 words of memory out of 5000000
- 44435 multiletter control sequences out of 15000+600000
+ 44436 multiletter control sequences out of 15000+600000
  566881 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,13n,117p,544b,503s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\hasie\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/hasie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/hasie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/hasie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/hasie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/hasie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/hasie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/hasie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/hasie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/hasie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on notes.pdf (10 pages, 1945009 bytes).
+Output written on notes.pdf (11 pages, 1950649 bytes).
 PDF statistics:
- 243 PDF objects out of 1000 (max. 8388607)
- 47 named destinations out of 1000 (max. 500000)
- 201 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 253 PDF objects out of 1000 (max. 8388607)
+ 49 named destinations out of 1000 (max. 500000)
+ 209 words of extra memory for PDF output out of 10000 (max. 10000000)
 

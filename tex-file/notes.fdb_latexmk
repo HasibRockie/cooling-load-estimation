@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1693028058 "d:/studypersonal/4-1/notes/ASSIGNMENTS/ME-415/Cooling_load_assignment/tex-file/notes.tex" "notes.pdf" "notes" 1693028060 0
+["pdflatex"] 1693029852 "d:/studypersonal/4-1/notes/ASSIGNMENTS/ME-415/Cooling_load_assignment/tex-file/notes.tex" "notes.pdf" "notes" 1693029855 0
   "C:/Users/hasie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1692726388 170326 b376b839aa6a9c1bf5a9810baed9fd38 ""
   "C:/Users/hasie/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1685809083 11548 1bbef3d886a733d6a59dea612a464b26 ""
   "C:/Users/hasie/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1689603020 24118871 b561b5f470376ef5fc64829676150d17 ""
@@ -174,15 +174,15 @@
   "C:/Users/hasie/AppData/Local/Programs/MiKTeX/tex/latex/varwidth/varwidth.sty" 1238469540 10894 d359a13923460b2a73d4312d613554c8 ""
   "C:/Users/hasie/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/hasie/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "d:/studypersonal/4-1/notes/ASSIGNMENTS/ME-415/Cooling_load_assignment/tex-file/notes.tex" 1693028056 13517 84d3ef5093072b4f67f6a4e14f0a3485 ""
-  "img/img1.png" 1692772537 288275 40427f86d79126d7649a2ad0b8ebf640 ""
-  "img/img2.png" 1692772677 829727 e1461a8cb7d425519db6d4b0f55e4cc0 ""
-  "img/img3.png" 1692772694 593439 35fa34d5f9adc280ba0fceecd5b39beb ""
+  "d:/studypersonal/4-1/notes/ASSIGNMENTS/ME-415/Cooling_load_assignment/tex-file/notes.tex" 1693029850 13747 f607c46641bf13923a386ece9c54d826 ""
+  "img/img1.png" 1693029591 243329 a688a8334430e94d818a91b7187c4300 ""
+  "img/img2.png" 1693029591 818580 bae38b71273886fa85cc8d572f60c54f ""
+  "img/img3.png" 1693029591 592651 a5bb5317dbd3429c5b2b3c92ab1d3ef8 ""
   "institution_logo.jpg" 1670742050 79872 5d0735b6c7c6296c6b696ba2a74b6f22 ""
-  "notes.aux" 1693028060 4993 55f2cca0abe5b8a74146882321204a6b "pdflatex"
-  "notes.out" 1693028060 3219 9e49f31bea57db895f24f3aa6c2d5e10 "pdflatex"
-  "notes.tex" 1693028056 13517 84d3ef5093072b4f67f6a4e14f0a3485 ""
-  "notes.toc" 1693028060 1711 bfbb9d80c559c3684b700a287c9903af "pdflatex"
+  "notes.aux" 1693029855 5108 818f5de690b162880071e0a56a19942d "pdflatex"
+  "notes.out" 1693029855 3346 3edaa2e64073bebe1e035ee60973ba4e "pdflatex"
+  "notes.tex" 1693029850 13747 f607c46641bf13923a386ece9c54d826 ""
+  "notes.toc" 1693029855 1785 b93cddab4279370220e9731f50ec25eb "pdflatex"
   (generated)
   "notes.aux"
   "notes.log"
